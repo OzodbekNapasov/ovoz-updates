@@ -1,0 +1,7 @@
+{
+ "build": 1,
+ "version": "1.0.1",
+ "exe": "https://raw.githubusercontent.com/OzodbekNapasov/ovoz-updates/main/OVOZ-win-1.exe",
+ "sha256": "1c7e30a6390c4184e91b1d02866f5e5ad7b70a2c21bb5c9ed2b159b9006c51ab",
+ "notes": "Merge branch 'windows-yangilanishlari': ovoz bilan tahrirlash, SAFETY tuzatish va .exe"
+}
