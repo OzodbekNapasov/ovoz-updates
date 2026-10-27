@@ -1,0 +1,8 @@
+{
+ "build": 5,
+ "version": "1.0.5",
+ "exe": "https://raw.githubusercontent.com/OzodbekNapasov/ovoz-updates/main/OVOZ-win-5.exe",
+ "sha256": "6d5263f763c6213ec09d16ebcb3d0ed4db891422bc05fb34e5377884dc04063b",
+ "notes": "Esc bilan bekor qilish va Windows o'rnatuvchisi (OVOZ-Setup.exe)",
+ "installer": "https://github.com/OzodbekNapasov/ovoz-updates/raw/main/OVOZ-Setup.exe"
+}
