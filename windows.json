@@ -1,0 +1,8 @@
+{
+ "build": 9,
+ "version": "1.0.9",
+ "exe": "https://raw.githubusercontent.com/OzodbekNapasov/ovoz-updates/main/OVOZ-win-9.exe",
+ "sha256": "f202eb7359005bd3754182ee535266b91a1250a6e3756603863ffe81cada93e7",
+ "notes": "Merge pull request #5 from OzodbekNapasov/claude/lucid-mccarthy-gzsj9u",
+ "installer": "https://github.com/OzodbekNapasov/ovoz-updates/raw/main/OVOZ-Setup.exe"
+}
